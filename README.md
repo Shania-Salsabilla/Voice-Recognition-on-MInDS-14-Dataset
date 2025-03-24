@@ -1,5 +1,8 @@
 # Voice-Recognition-on-MInDS-14-Dataset
 
+![Voice Recognition](https://github.com/user-attachments/assets/735de15f-eac5-44db-9bec-71c18f6c94e0)
+
+
 ## Introduction:
 Voice Recognition is a technology that allows machines to interpret and process human speech. With advancements in Artificial Intelligence (AI), particularly in deep learning, voice recognition systems have become more accurate and efficient in understanding spoken language.
 
